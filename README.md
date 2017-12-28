@@ -59,6 +59,7 @@
             D-Boost           -> Defense Boost
             A-Receptor        -> Attack Receptor
             Gu-Receptor       -> Guard Receptor
+            F-Receptor        -> Factor Receptor
             Ph-Receptor		-> Photon Receptor
             FVegas Soul		-> Full Vegas Soul
             E-Power           -> Elegant Power
