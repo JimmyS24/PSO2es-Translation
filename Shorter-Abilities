@@ -1,5 +1,5 @@
 {
-  "patch_version": 2,
+  "patch_version": "Test",
   "patch_url": "https://github.com/SynthSy/PSO2es-Translation/releases/download/001/ShortHandPatch2.zip",
   "patch_compatible": true,
   "patch_message": "Allows searching for Special Abilities in the Shop."
